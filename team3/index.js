@@ -1,3 +1,5 @@
+// adding comment -gy
+
 const sum = (a, b) => { // writen by Dani
   return a + b;
 };
