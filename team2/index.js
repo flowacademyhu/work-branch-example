@@ -2,6 +2,11 @@ const summary = (a, b) => {	// first comment
   return a + b;
 };
 
-export.modules = {
-  summary
-}
+const div = (a, b) => { // divison for team projekt madebyKZ
+  return a / b;
+};
+
+module.exports = {
+  summary: summary,
+  div: div
+};
