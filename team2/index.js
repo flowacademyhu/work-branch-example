@@ -1,4 +1,4 @@
-const summary = (a, b) => {
+const summary = (a, b) => {	// first comment
   return a + b;
 };
 
